@@ -1,6 +1,8 @@
 # lcfam
 Generate lightness corrected color-coded fractional anisotropy maps (LCFAMs).
 
+<img src="https://s3.eu-central-1.amazonaws.com/jan-gerd-tenberge-research/lcfam/demo.png">
+
 ## Requirements
 For the command line utility you will need Python 2.7 and scikit-image, which can be installed with
 
